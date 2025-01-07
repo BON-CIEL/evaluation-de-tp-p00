@@ -6,7 +6,8 @@
 
 int main()
 {
-	Point::Point();
+	Point A;
+	A.setX(2);
 }
 
 // Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
